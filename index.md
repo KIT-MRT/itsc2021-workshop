@@ -5,16 +5,16 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/header_from_unsplash_dot_com.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-title: 'From Benchmarking Behavior Prediction to Socially Compatible Behavior Generation in Autonomous Driving'
-excerpt: 'An upcoming IV2021 workshop'
+title: 'Probabilistic Prediction and Comprehensible Motion Planning for Automated Vehicles -- Approaches and Benchmarking '
+excerpt: 'An upcoming ITSC2021 workshop'
 ---
 
-This workshop will be held at the [32nd IEEE Intelligent Vehicles Symposium (IV)](https://2021.ieee-iv.org/), planned for July 11-15, 2021, in Nagoya, Japan.
+This workshop will be held at the [24th IEEE International Conference on Intelligent Transportation (ITSC)](https://2021.ieee-itsc.org/), planned for September 19-22, 2021 in Indianapolis, IN, United States.
 
 ## Contributions
 
-Submissions are welcome via [papercept](https://its.papercept.net/). Please use our workshop code `w2cw1` for your submission. Submission deadline is March 29, 2021.
-See [https://2021.ieee-iv.org/workshops/](https://2021.ieee-iv.org/workshops/) for details on the workshop paper submission.
+Submissions are welcome via [papercept](https://its.papercept.net/). Please use our workshop code `798fn` for your submission. Submission deadline is March 31, 2021.
+See [https://2021.ieee-itsc.org/workshops/](https://2021.ieee-itsc.org/workshops/) for details on the workshop paper submission.
 Please get in touch with the organizers in case you have any further questions.
 
 ## Scope and Topics
@@ -28,14 +28,15 @@ The topics of interest of the workshop include, but are not limited to,
 
 ## Organizers
 
-- **Dr. Maximilian Naumann**, Karlsruhe Institute of Technology (KIT)
-- **Jiachen Li**, University of California at Berkeley
-- **Dr. Liting Sun**, University of California at Berkeley
-- **Dr. Wei Zhan**, University of California at Berkeley
-- **Prof. Masayoshi Tomizuka**, University of California at Berkeley
-- **Prof. Arnaud de La Fortelle**, MINES ParisTech
-- **Prof. Christoph Stiller**, Karlsruhe Institute of Technology (KIT)
+- **Maximilian Naumann**, Karlsruhe Institute of Technology
+- **Eike Rehder**, Mercedes-Benz AG
+- **Martin Lauer**, Karlsruhe Institute of Technology
+- **Liting Sun**, University of California at Berkeley
+- **Wei Zhan**, University of California at Berkeley
+- **Masayoshi Tomizuka**, University of California at Berkeley
+- **Arnaud de La Fortelle**, MINES ParisTech
+- **Christoph Stiller**, Karlsruhe Institute of Technology
 
 ## Past Editions
 
-At IV2020, the organizers hosted a previous edition of this workshop: [https://sites.google.com/berkeley.edu/iv20-interaction](https://sites.google.com/berkeley.edu/iv20-interaction).
+At ITSC2020, the organizers hosted a previous edition of this workshop: [https://kit-mrt.github.io/itsc2020-workshop/](https://kit-mrt.github.io/itsc2020-workshop/).
