@@ -13,7 +13,7 @@ This workshop will be held at the [24th IEEE International Conference on Intelli
 
 ## Contributions
 
-Submissions are welcome via [papercept](https://its.papercept.net/). Please use our workshop code `798fn` for your submission. Submission deadline is March 31, 2021.
+Submissions are welcome via [papercept](https://its.papercept.net/). Please use our workshop code `798fn` for your submission. Submission deadline is ~~March 31~~ April 15, 2021.
 See [https://2021.ieee-itsc.org/workshops/](https://2021.ieee-itsc.org/workshops/) for details on the workshop paper submission.
 Please get in touch with the organizers in case you have any further questions.
 
