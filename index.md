@@ -9,7 +9,9 @@ title: 'Probabilistic Prediction and Comprehensible Motion Planning for Automate
 excerpt: 'An upcoming ITSC2021 workshop'
 ---
 
-This workshop will be held at the [24th IEEE International Conference on Intelligent Transportation (ITSC)](https://2021.ieee-itsc.org/), planned for September 19-22, 2021 in Indianapolis, IN, United States.
+**Note: This workshop has been cancelled in favor of [our IV 2021 workshop](https://kit-mrt.github.io/iv2021-workshop/), which will be fully virtual and which you are welcome to join!**
+
+~~This workshop will be held at the [24th IEEE International Conference on Intelligent Transportation (ITSC)](https://2021.ieee-itsc.org/), planned for September 19-22, 2021 in Indianapolis, IN, United States.~~
 
 ## Contributions
 
@@ -28,7 +30,7 @@ The topics of interest of the workshop include, but are not limited to,
 
 ## Organizers
 
-- **Maximilian Naumann**, Karlsruhe Institute of Technology
+- **Maximilian Naumann**, Bosch Center for Artificial Intelligence
 - **Eike Rehder**, Mercedes-Benz AG
 - **Martin Lauer**, Karlsruhe Institute of Technology
 - **Liting Sun**, University of California at Berkeley
